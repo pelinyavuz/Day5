@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/Main.java=UTF-8
+encoding//src/nLayerdDemo/business/concretes/LoginManager.java=UTF-8
+encoding//src/nLayerdDemo/dataAccess/abstracts/UserDao.java=UTF-8
+encoding//src/nLayerdDemo/dataAccess/concretes/HibernateUserDao.java=UTF-8
